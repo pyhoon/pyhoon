@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 ### 🚀 About Me
 
 - 💡 **Entrepreneur & B4X Developer** passionate about making technology simple and impactful.
-- 🛠️ **Tech Stack:** B4X, VB, .NET, PHP
+- 🛠️ **Tech Stack:** B4X, HTMX, Bootstrap, SQL
+- 🦋 **Personality:** [INFP-T (Mediator)](https://www.16personalities.com) I (Introvert), N (iNtuitive), F (Feeling), P (Prospecting), T (Turbulent)
 - 🌱 I believe software should **empower people**, streamline work, and spark joy.
-- 🧑‍🦰 Personality: [INFP (Mediator)](https://www.16personalities.com) I (Introvert), N (iNtuitive), F (Feeling), P (Prospecting)
 ---
 
 ### 🌈 Featured Projects
