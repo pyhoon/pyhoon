@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 - 🍜 Food lover, avid traveler, movie & music fan
 - 👨‍🏫 Love teaching, sharing, and meeting new friends
-- 🦆 The Duck avatar in my mind depicts B4X as a cross-platform language, similar to a duck can walk on ground, swim or dive into water and fly on sky. It is loved by the community.
+- 🦆 The Duck avatar depicts cross-platform development
 ---
 
 <p align="center">
