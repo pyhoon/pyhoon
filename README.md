@@ -18,33 +18,32 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi, I'm Poon Yip Hoon 👋</h1>
 <p align="center">
-  <b>Entrepreneur & B4X Developer</b><br>
-  <i>Building software that improves work and life.</i>
+  <b>B4X Developer & Solopreneur</b> based in Malaysia<br>
+  <i>Building software that improves work and life</i>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 💡 **Entrepreneur & B4X Developer** passionate about making technology simple and impactful.
-- 🛠️ **Tech Stack:** B4X, HTMX, Bootstrap, SQL
-- 🦋 **Personality:** [INFP-T (Mediator)](https://www.16personalities.com) I (Introvert), N (iNtuitive), F (Feeling), P (Prospecting), T (Turbulent)
-- 🌱 I believe software should **empower people**, streamline work, and spark joy.
+- 🤓 **Personality:** [INFP-T (Mediator)](https://www.16personalities.com)
+- 🛠️ **Tech Stack:** [B4X](https://www.b4x.com), [HTMX](https://htmx.org), [Bootstrap](https://getbootstrap.com), [SQLite](https://sqlite.org)
+- 💡 **Experience:** 24+ years Software Developer & 12+ years One-Man Company
 ---
 
 ### 🌈 Featured Projects
 
-- [pakai-server-b4j](https://github.com/pyhoon/pakai-server-b4j): Server-side solutions with B4J.
-- [miniormutils-b4x](https://github.com/pyhoon/MiniORMUtils-B4X): A mini object–relational mapping (ORM).
-- [web-api-client-b4x](https://github.com/pyhoon/web-api-client-b4x): Web API client library for B4X developers.
+- [pakai-server-b4j](https://github.com/pyhoon/pakai-server-b4j): Full stack web development framework
+- [miniormutils-b4x](https://github.com/pyhoon/MiniORMUtils-B4X): Object–relational mapping library (SQLite/MariaDB/MySQL)
+- [lhdn-einvoice-api-client-b4x](https://github.com/pyhoon/lhdn-einvoice-api-client-b4x): LHDN Malaysia e-Invoice API Clients (Android/iOS/Desktop)
 
 ---
 
 ### 🌍 Connect & More
 
-- [Puterise](https://puterise.com)
 - [MyDonePOS](https://mydonepos.com)
 - [Computerise](https://computerise.my)
+- [Puterise](https://puterise.com)
 - [YouTube](https://www.youtube.com/@aeric80)
 - [LinkedIn](https://www.linkedin.com/in/aeric80)
 
@@ -54,9 +53,10 @@ Here are some ideas to get you started:
 
 - 🍜 Food lover, avid traveler, movie & music fan
 - 👨‍🏫 Love teaching, sharing, and meeting new friends
-- 🦆 The Duck avatar depicts cross-platform development
+- 🦆 My avatar depicts cross-platform development solution
 ---
 
+<div align="center">🌱 I believe software should <b>empower people</b>, streamline work, and spark joy.</div>
 <p align="center">
   <b>“Let’s build software for a better work and life — together!”</b>
 </p>
