@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ### 🚀 About Me
 
 - 🤓 **Personality:** [INFP-T (Mediator)](https://www.16personalities.com)
-- 🛠️ **Tech Stack:** [B4X](https://www.b4x.com), [HTMX](https://htmx.org), [Bootstrap](https://getbootstrap.com), [SQLite](https://sqlite.org)
+- 🛠️ **Tech Stack:** [B4X](https://www.b4x.com), [Alpine](https://alpinejs.dev), [Tailwind](https://tailwindcss.com), [HTMX](https://htmx.org) (BATH)
 - 💡 **Experience:** 24+ years Software Developer & 12+ years One-Man Company
 ---
 
